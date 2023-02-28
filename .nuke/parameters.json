@@ -1,0 +1,12 @@
+{
+  "$schema": "./build.schema.json",
+  "Solution": "MediatR.Strategies.sln",
+  "PackageId": "MediatR.Strategies",
+  "PackageVersion": "1.0.0",
+  "PackageDescription": "",
+  "PackageAuthors": "",
+  "PackageTags": [],
+  "RepositoryUrl": "",
+  "PackageLicenseUrl": "",
+  "PackageProjectUrl": ""
+}
